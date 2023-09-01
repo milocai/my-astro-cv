@@ -6,10 +6,10 @@ import alpinejs from "@astrojs/alpinejs";
 // https://astro.build/config
 export default defineConfig({
   integrations: [tailwind(), alpinejs()],
-  output: 'server',
-  adapter: vercel({
-    analytics: true,
-  }),
+  // output: 'server',
+  // adapter: vercel({
+  //   analytics: true,
+  // }),
   site: 'https://milocai.github.io',
   base: '/my-astro-cv'
 });
