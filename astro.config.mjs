@@ -10,4 +10,6 @@ export default defineConfig({
   adapter: vercel({
     analytics: true,
   }),
+  site: 'https://milocai.github.io',
+  base: '/my-astro-cv'
 });
