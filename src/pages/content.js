@@ -79,6 +79,36 @@ export const projects = [
 		url: "https://milocai.github.io/js-quiz/",
 		tech: "Front end development, Vite, React.js, zustand, CI/CD, and VCS",
 	},
+	{
+		title: "Timestamp Microservice",
+		description: "A project to improve my skills as a backend developer",
+		url: "https://boilerplate-project-timestamp.milocai.repl.co/",
+		tech: "Back end development, Node.js, Express.js, CI/CD, and VCS",
+	},
+	{
+		title: "Request Header Parser Microservice",
+		description: "A project to improve my skills as a backend developer",
+		url: "https://boilerplate-project-headerparser.milocai.repl.co/",
+		tech: "Back end development, Node.js, Express.js, CI/CD, and VCS",
+	},
+	{
+		title: "URL Shortener Microservice",
+		description: "A project to improve my skills as a backend developer",
+		url: "https://boilerplate-project-urlshortener.milocai.repl.co/",
+		tech: "Back end development, Node.js, Express.js, CI/CD, and VCS",
+	},
+	{
+		title: "Exercise Tracker",
+		description: "A project to improve my skills as a backend developer",
+		url: "https://boilerplate-project-exercisetracker.milocai.repl.co/",
+		tech: "Back end development, Node.js, Express.js, MongoDB, Mongoose, CI/CD, and VCS",
+	},
+	{
+		title: "File Metadata Microservice",
+		description: "A project to improve my skills as a backend developer",
+		url: "https://boilerplate-project-filemetadata.milocai.repl.co/",
+		tech: "Back end development, Node.js, Express.js, CI/CD, and VCS",
+	},
 ]
 
 // Education --> #education section
@@ -125,6 +155,21 @@ export const certificates = [
 		url: "https://www.credly.com/badges/2c9f94c4-3933-4f97-b7c2-a17a97c83033",
 		description: "Scrum Foundation Professional Certification holders have developed entry-level skills in Scrum that endorse their fundamental knowledge in this framework. They have demonstrated an understanding of the empirical Scrum pillars of transparency, inspection, and adaptation. Their primary focus is on the work of Sprint to make the best possible progress toward these goals.",
 	},
+	{
+		issued: "2023",
+		title: "Back End Development and APIs",
+		org: "freeCodeCamp",
+		url: "https://www.freecodecamp.org/certification/milocai/back-end-development-and-apis",
+		description: "In the Back End Development and APIs Certification, you'll learn how to write back end apps with Node.js and npm. You'll also build web applications with the Express framework, and build a People Finder microservice with MongoDB and the Mongoose library.",
+	},
+	{
+		issued: "2023",
+		title: "MongoDB for SQL Professionals",
+		org: "MongoDB University",
+		url: "https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/ed93a210-a26d-408c-97ef-bd7155cfc6a2-sergio-rubino-19aa5e7d-177c-4caa-8e8b-dda3ffca98b6-certificate.pdf",
+		description: "This course guides you through the foundational knowledge and skills needed to use MongoDB as a SQL Professional. You'll learn about MongoDB's document model and the basics of data modeling, indexes and aggregation with MongoDB. Additionally, this course covers key features that help you, as a SQL professional, use MongoDB.",
+	},
+
 	// {
 	// 	issued: "2006",
 	// 	title: "Emergency Response Training",
