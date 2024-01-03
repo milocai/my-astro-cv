@@ -1,12 +1,12 @@
 // Personal Information --> #hero section
 export const name = "Sergio Rubino"
-export const designation = "Frontend Developer"
+export const designation = "Information Systems Engineer"
 export const location = "Tucumán, Argentina"
 export const pronouns = "he/him"
 export const website = "https://github.com/milocai"
 
 // About
-export const about = "Advanced Information Systems Engineering student. Currently looking for my supervised internship and doing my thesis. Passionate about the use and research of new technologies, interested in various areas of the software industry, particularly frontend development."
+export const about = "Passionate about the use and research of new technologies, interested in various areas of the software industry, particularly development and testing.  I have good problem solving skills, applying knowledge acquired in my career, such as object-oriented programming, agile methodologies and best practices to implement solutions focused on creating value."
 
 // Work Experience --> #work section
 export const work = [
